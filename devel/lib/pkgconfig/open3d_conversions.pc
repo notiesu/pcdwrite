@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/unilidar_sdk/unitree_lidar_ros/catkin_point_lio_unilidar/pcdwrite/devel
+
+Name: open3d_conversions
+Description: Description of open3d_conversions
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

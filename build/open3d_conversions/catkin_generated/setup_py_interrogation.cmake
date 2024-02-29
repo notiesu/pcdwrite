@@ -1,0 +1,7 @@
+set(open3d_conversions_SETUP_PY_SETUP_MODULE "setuptools")
+set(open3d_conversions_SETUP_PY_VERSION "0.0.1")
+set(open3d_conversions_SETUP_PY_SCRIPTS "")
+set(open3d_conversions_SETUP_PY_PACKAGES "open3d_conversions")
+set(open3d_conversions_SETUP_PY_PACKAGE_DIRS "src/open3d_conversions")
+set(open3d_conversions_SETUP_PY_MODULES "")
+set(open3d_conversions_SETUP_PY_MODULE_DIRS "")

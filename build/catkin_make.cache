@@ -1,0 +1,2 @@
+open3d_conversions
+-DCATKIN_DEVEL_PREFIX=/home/ubuntu/unilidar_sdk/unitree_lidar_ros/catkin_point_lio_unilidar/pcdwrite/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntu/unilidar_sdk/unitree_lidar_ros/catkin_point_lio_unilidar/pcdwrite/install -G Unix Makefiles
