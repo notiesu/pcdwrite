@@ -46,3 +46,5 @@ class PointCloudVisualizer:
 if __name__ == "__main__":
     vis = PointCloudVisualizer("/cloud_registered")
     vis.start()
+    vis.writeFromCache()
+    vis.openVis()
